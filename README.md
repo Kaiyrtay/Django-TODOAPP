@@ -47,8 +47,8 @@ python --version
 **1.Clone the Repo**
 
 ```sh
-git clone https://github.com/Kaiyrtay/Django-LoginSystem.git
-cd Django-LoginSystem
+git clone https://github.com/Kaiyrtay/Django-TODOAPP.git
+cd Django-TODOAPP
 ```
 
 **2.Install Requirements**
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 **3.Create .env**
 
 ```sh
-cd ~/Django-LoginSystem/todo_list
+cd ~/Django-TODOAPP/todo_list
 touch .env
 ```
 
