@@ -48,12 +48,12 @@ python --version
 
 ```sh
 git clone https://github.com/Kaiyrtay/Django-TODOAPP.git
-cd Django-TODOAPP
 ```
 
 **2.Install Requirements**
 
 ```sh
+cd ~/Django-TODOAPP/todo_list
 pip install -r requirements.txt
 ```
 
